@@ -1,0 +1,2 @@
+# 3rdSmallestAnd3rdLargest
+3rdSmallestAnd3rdLargest
